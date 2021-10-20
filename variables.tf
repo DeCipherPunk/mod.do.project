@@ -1,3 +1,4 @@
+variable "do_token" {}
 variable "do_project_name" {
   type = string
   default = "default"
